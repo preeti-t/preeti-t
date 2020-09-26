@@ -1,5 +1,7 @@
 ### Hi there 👋 Welcome to my profile.
+
 I’m currently learning Coding.
+
 About me: I am Indian national residing in Brussels , Belgium.
 <!--
 **preeti-t/preeti-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
