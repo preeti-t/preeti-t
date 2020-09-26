@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile.
 
-I’m currently learning Coding.
+I’m currently learning Coding and happy to be a part of HYF team.
 
 About me: I am Indian national residing in Brussels , Belgium.
 <!--
