@@ -1,6 +1,6 @@
-### Hi there 👋 Welcome to my profile.
+## Hi, My name is Preeti👋 Welcome to my profile.
 
-I am a telecomm engineer, learing Coding and  happy to be a part of HYF team.
+### I am a telecomm engineer, learing Coding and  happy to be a part of HYF team.
 
 About me: I am Indian national residing in Brussels, Belgium.
 
