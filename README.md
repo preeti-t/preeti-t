@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently strengthening my Java programming skills.  <br>👯 I’m actively seeking an internship or entry-level opportunity in the IT sector.  <br>🤝 I’m open to guidance, mentorship, and opportunities to grow in the tech industry.  <br>🌱 I’m currently learning Front-End Development and improving my Java skills.  <br>💬 Ask me about my journey into software development, returning to tech after a career break, and learning web development and Git.  <br>⚡ Fun fact: I enjoy solving logic puzzles and coding challenges.<br>
+🔭 I’m currently strengthening my Java programming skills.  <br>👯 I’m actively seeking an internship or entry-level opportunity in the IT sector.  <br>🤝 I’m open to guidance, mentorship, and opportunities to grow in the tech industry.  <br>🌱 I’m currently learning Back-End Development and improving my Java skills.  <br>💬 Ask me about my journey into software development, returning to tech after a career break, and learning web development and Git.  <br>⚡ Fun fact: I enjoy solving logic puzzles and coding challenges.<br>
 
 
 # 💻 Tech Stack:
